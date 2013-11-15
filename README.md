@@ -1,2 +1,4 @@
-Rock-Paper-Sciccors-Starter
-===========================
+Rock-Paper-Scissors
+===================
+
+Workshop on Google App Engine
